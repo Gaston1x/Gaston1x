@@ -9,9 +9,8 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/maycol-ortiz/"><img src="https://img.shields.io/badge/LinkedIn-Maycol%20Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://gaston1x.github.io/vibe-events/"><img src="https://img.shields.io/badge/Demo-Vibe%20Events-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Demo de Vibe Events"/></a>
-<img src="https://komarev.com/ghpvc/?username=Gaston1x&color=7c3aed&style=for-the-badge&label=VISITAS" alt="Visitas al perfil"/>
+<a href="https://www.linkedin.com/in/maycol-ortiz/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn: Maycol Ortiz"/></a>&nbsp;
+<a href="https://gaston1x.github.io/vibe-events/"><img src="assets/btn-demo.svg" height="44" alt="Ver demo de Vibe Events"/></a>
 
 </div>
 
@@ -108,6 +107,8 @@ const maycol = {
 <img src="https://streak-stats.demolab.com?user=Gaston1x&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&locale=es" alt="Racha de contribuciones"/>
 
 <img src="https://raw.githubusercontent.com/Gaston1x/Gaston1x/output/github-snake-dark.svg" width="100%" alt="Animación de contribuciones"/>
+
+<img src="https://komarev.com/ghpvc/?username=Gaston1x&color=7c3aed&style=flat-square&label=visitas" alt="Visitas al perfil"/>
 
 </div>
 
