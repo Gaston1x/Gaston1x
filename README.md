@@ -10,7 +10,8 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/maycol-ortiz/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn: Maycol Ortiz"/></a>&nbsp;
-<a href="https://gaston1x.github.io/vibe-events/"><img src="assets/btn-demo.svg" height="44" alt="Ver demo de Vibe Events"/></a>
+<a href="https://gaston1x.github.io/vibe-events/"><img src="assets/btn-demo.svg" height="44" alt="Ver demo de Vibe Events"/></a>&nbsp;
+<a href="https://autoaudit-umg.mexicocentral.cloudapp.azure.com"><img src="assets/btn-autoaudit.svg" height="44" alt="Ver demo de AutoAudit"/></a>
 
 </div>
 
@@ -50,7 +51,7 @@ const maycol = {
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="SQL Server"/>
 
 **Herramientas**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,ubuntu&theme=dark" alt="Git, GitHub, GitHub Actions, Linux, Ubuntu"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,ubuntu,azure&theme=dark" alt="Git, GitHub, GitHub Actions, Linux, Ubuntu, Azure"/>
 
 </div>
 
@@ -83,14 +84,17 @@ const maycol = {
       <ul>
         <li>Triggers en <b>PL/pgSQL</b> generados dinámicamente</li>
         <li>Bitácora inmutable y consultas de “viaje en el tiempo”</li>
-        <li><b>81 pruebas</b> automáticas y pruebas con +1 millón de registros</li>
+        <li><b>82 pruebas</b> automáticas y pruebas con +1 millón de registros</li>
+        <li>Desplegado en <b>Azure</b> con HTTPS (Caddy + Let's Encrypt) y systemd</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure"/>
       </p>
-      <a href="https://github.com/Gaston1x/autoaudit"><b>Código y documentación</b></a>
+      <a href="https://autoaudit-umg.mexicocentral.cloudapp.azure.com"><b>Ver demo</b></a> · <a href="https://github.com/Gaston1x/autoaudit"><b>Código y documentación</b></a>
+      <br/><sub>Acceso de solo lectura: <code>aa_lector</code> / <code>DemoAutoAudit2026</code></sub>
     </td>
   </tr>
 </table>
