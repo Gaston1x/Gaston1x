@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="Lenguajes más usados">
+  <rect x="0.5" y="0.5" width="419" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="38" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="17" font-weight="700" fill="#c4b5fd">Lenguajes más usados</text>
+  <clipPath id="r"><rect x="24" y="58" width="372" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#r)"><rect x="24.00" y="58" width="117.68" height="10" fill="#f1e05a"/><rect x="141.68" y="58" width="81.87" height="10" fill="#3572A5"/><rect x="223.55" y="58" width="70.12" height="10" fill="#336790"/><rect x="293.67" y="58" width="50.62" height="10" fill="#663399"/><rect x="344.29" y="58" width="42.34" height="10" fill="#e34c26"/><rect x="386.63" y="58" width="7.32" height="10" fill="#89e051"/></g>
+  <circle cx="30" cy="91" r="6" fill="#f1e05a"/>
+  <text x="42" y="96" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="14" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">31.6 %</tspan></text>
+  <circle cx="222" cy="91" r="6" fill="#3572A5"/>
+  <text x="234" y="96" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="14" fill="#c9d1d9">Python <tspan fill="#8b949e">22.0 %</tspan></text>
+  <circle cx="30" cy="117" r="6" fill="#336790"/>
+  <text x="42" y="122" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="14" fill="#c9d1d9">PLpgSQL <tspan fill="#8b949e">18.9 %</tspan></text>
+  <circle cx="222" cy="117" r="6" fill="#663399"/>
+  <text x="234" y="122" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="14" fill="#c9d1d9">CSS <tspan fill="#8b949e">13.6 %</tspan></text>
+  <circle cx="30" cy="143" r="6" fill="#e34c26"/>
+  <text x="42" y="148" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="14" fill="#c9d1d9">HTML <tspan fill="#8b949e">11.4 %</tspan></text>
+  <circle cx="222" cy="143" r="6" fill="#89e051"/>
+  <text x="234" y="148" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="14" fill="#c9d1d9">Shell <tspan fill="#8b949e">2.0 %</tspan></text>
+</svg>
